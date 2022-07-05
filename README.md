@@ -10,7 +10,7 @@
 
 
 ## 이전까지 진행 상황(2022/01에 수행)
-* 캐글 데이터를 이용, colab에 업로드하여 진행
+* levels.fyi의 연봉 데이터를 이용(참고: https://towardsdatascience.com/a-beginners-guide-to-grabbing-and-analyzing-salary-data-in-python-e8c60eab186e), colab에서 진행
 * 시각화
 * 전처리, 특성공학
 * 머신러닝 알고리즘 적용
